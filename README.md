@@ -1,5 +1,4 @@
-# Face-Mask-Detection
-Face Mask Detection using Tensorflow and Keras.
+# Face-Mask-Detection-and-Classification
 
 ## Requirements
 - Python 3.8 or higher
