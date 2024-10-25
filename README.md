@@ -10,7 +10,7 @@
 Running the code does not require any special hardware, it can run on any machine, even on tiny devices like Raspberry Pi.
 
 ## How the code works
-OpenCv is used for face detection, then detected faces are fed into a model that predicts if the person is wearing a mask or not.
+OpenCV is used for face detection, then detected faces are fed into a model that predicts if the person is wearing a mask or not.
 
 ## About this project
 This was my final project for my bachelor's degree.
